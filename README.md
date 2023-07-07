@@ -1,14 +1,24 @@
-👋 Hi there! I'm Arun KB, a skilled MERN Stack web developer with expertise in CSS3, HTML5,JavaScript, and Java. 
-I'm passionate about building robust and user-friendly web applications.
-
-🚀 Currently, I'm working on MERN Stack projects to expand my skill set and knowledge in full-stack web development. I'm open to collaborating with other developers on exciting projects that make a positive impact.
-
-💡 I'm seeking new ideas to implement in my projects and enhance user experiences. If you have any suggestions or unique concepts, I'd love to hear them.
-
-🌱 Continuous learning is key for me, and I stay updated with the latest web development trends. My tech stack includes AWS, Firebase, Google Cloud, Tailwind css, JWT, NPM, MUI,React, Redux, Socket.io, Node.js,Python, MongoDB,Linux and Postman.
-
-💬 Feel free to reach out if you have any questions or if you're interested in collaborating. Let's connect and create exceptional web experiences together!
-
-⚡ Fun fact: I'm a self-proclaimed lazy genius, but that hasn't stopped me from delivering high-quality work and pushing my boundaries as a developer.
+# 💫 About Me:
+👋 Hi there! I'm Arun KB, a skilled MERN Stack web developer with expertise in CSS3, HTML5,JavaScript, and Java. <br>I'm passionate about building robust and user-friendly web applications.<br><br>🚀 Currently, I'm working on MERN Stack projects to expand my skill set and knowledge in full-stack web development. I'm open to collaborating with other developers on exciting projects that make a positive impact.<br><br>💡 I'm seeking new ideas to implement in my projects and enhance user experiences. If you have any suggestions or unique concepts, I'd love to hear them.<br><br>🌱 Continuous learning is key for me, and I stay updated with the latest web development trends. My tech stack includes AWS, Firebase, Google Cloud, Tailwind css, JWT, NPM, MUI,React, Redux, Socket.io, Node.js,Python, MongoDB,Linux and Postman.<br><br>💬 Feel free to reach out if you have any questions or if you're interested in collaborating. Let's connect and create exceptional web experiences together!<br><br>⚡ Fun fact: I'm a self-proclaimed lazy genius, but that hasn't stopped me from delivering high-quality work and pushing my boundaries as a developer.<br><br>
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arun.baburaj.35) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_arun__kb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arun-kb-6417631b2) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/arun-kb) 
+
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Arun-kb0&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Arun-kb0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-kb0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Arun-kb0&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Arun-kb0&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Arun-kb0&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
